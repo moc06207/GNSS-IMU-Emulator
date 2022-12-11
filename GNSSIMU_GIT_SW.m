@@ -16,7 +16,9 @@ cnt = 1;
 
 %%%% IMU Noise Configuration %%%%
 %%% Accelerometer Noise Configuration %%%
+
 S_aL = 1000e-6; % [] Linear error of scale factor
+
 b_a = 5000e-6*g; % [m/s^2] turn-on to turn-on bias of the sensor
 b_aM = 15e-6*g; % [m/s^2] bias in-run stability of the sensor.
 tau_a = 0.5/3600; % [sec] correlration time
