@@ -42,8 +42,11 @@ n_g = 1; % [deg/h/sqrt(Hz)] zero-mean Gauss distributed white noise that gives r
 N_gG = 0; % gyro g-sensitivity matrix, which is skew symmetric, with random Gaussian distributed component
 
 %%%% GPS Noise Configuration %%%%
+
 CM = 1; % Correction Mode (1 = SA, 2 = DGPS, 3 = RTK)
+
 JS = 20; % Jamming to Signal Ratio [dB] max value : 40 [dB]
+
 jamming_option = 1; % 1: jamming on, 0 = jamming off;
 
 switch CM
