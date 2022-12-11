@@ -4,9 +4,7 @@ Hello!
 I'm a M.S. Candidate of Autonomous Vehicle and Presidential student of science
 
 #### Introduction
-- M.S. Candidate of Autonomous Vehicle
-- Presidential student of science(Engineering)
-- Officer Candidate of Navy(OCS 134th)
+- 본 개발은 정보통신기획평가원(IITP)의 '현실-가상정보 융합형 엣지기반 자율주행 시뮬레이션SW 기술개발' 연구에 대한 일부 
 
 
 #### Achievement
