@@ -28,7 +28,9 @@ tau_a = 0.5/3600; % [sec] correlration time
 n_a = 60e-6*g; % [m/s^2/sqrt(Hz)(1-sigma)] zero-mean Gauss distributed white noise that gives rise to the VRW.
 
 %%% Gyroscope Noise Configuration %%%
+
 S_gL = 1500e-6; % [] Linear error of scale factor
+
 b_g = 700; % [deg/h] turn-on to turn-on bias of the sensor
 b_gM = 10; % [deg/h] bias in-run stability of the sensor.
 tau_g = 0.5/3600; % [sec] correlration time
