@@ -2,32 +2,13 @@
 
 #### Introduction
 - 본 개발은 정보통신기획평가원(IITP)의 '현실-가상정보 융합형 엣지기반 자율주행 시뮬레이션SW 기술개발' 연구에 대한 일부 
+- 본 개발은 자율주행 드라이빙 시뮬레이터에 대한 GNSS/IMU에 대해 현실에서 발생하는 오차 요인을 모델링하여 오차를 생성하는 코드임
 
 
-#### Achievement
-- The Presidential Student of Science
-- IEEE Seoul Grand Prize(Paper : Design of an Autonomous Vehicle and Safety System for Unmanned Services)
-- Grand Prize of Ministry of Trade, Industry and Energy
-- Grand Prize of Ministry of the Interior and Safety
-- etc..(12 Prize of other competition)
+#### GNSS
+- 멀티패스 
 
-#### Paper
-- Design of an Autonomous Vehicle and Safety System for Unmanned Services(IEEE Seoul Section)
-- Kalman Filter-Based Position Estimation Method of Autonomous Platform Using Low-cost GNSS/INS Sensor Integration(ITS Conference)
-- Obstacle Avoidance Path Generation Algorithm Considering Safety Distanc(ITS Conference)
-- A Study on Improvement of Object Recognition Performance of LiDAR Using Distance-based Sampling Algorithm(ITS Conference)
-- A Study on Accuracy Improvement of Traffic Sign Perception CNN for Autonomous Driving according to Batch Size of Training Data Set(IPNT Conference)
-- A study on Autonomous Mobile Robot Design and Implementation of Unmanned Driving Service(ITS Conference)
-- Integrative Software for Modular Type Autonomous Driving(ITS Conference)
 
-#### Youtube
-- Autonomous Robot of Prevection of Crime (https://www.youtube.com/watch?v=CAWPHfTdVkg)
-- Autonomous Robot of Prevection of Frie Emergency(https://www.youtube.com/watch?v=JhQ00m_30nQ)
-- Service of Smart Campus based Unmanned Robot(https://www.youtube.com/watch?v=EENhTD56urY)
 
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoc06207&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moc06207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moc06207&show_icons=true&theme=radical)
+#### GNSS
+- 멀티패스 
