@@ -9,6 +9,7 @@ I = eye(3,3);
 Hz = 50; % [Hz] (max: 50Hz)
 
 g = 9.8; % [m/s^2]
+
 wgs84 = wgs84Ellipsoid;
 cnt = 1;
 
