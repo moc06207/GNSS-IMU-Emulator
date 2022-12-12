@@ -12,7 +12,7 @@
 
 ### Driving Simulator
 
-"MORAI" 드라이빙 시뮬레이터를 이용하여 사용방법 설명
+"MORAI" 드라이빙 시뮬레이터를 이용하여 사용방법을 설명함
 
 #### 1. 드라이빙 시뮬레이터
 ![1](https://user-images.githubusercontent.com/80453237/206969052-007d314a-7f73-44a5-90f6-284785d709c6.JPG)
