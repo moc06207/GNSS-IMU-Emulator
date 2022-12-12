@@ -26,7 +26,7 @@
 #### 3. GPS/IMU 센서 세부 설정 및 통신 프로토콜 설정
 ![4](https://user-images.githubusercontent.com/80453237/206969465-2dd7075c-ee1f-454b-8363-168573ab6d68.JPG)
 ![5](https://user-images.githubusercontent.com/80453237/206969468-e8abb951-9b50-40e9-9dc1-e268b07dfb92.JPG)
-
+ 
 ### Acknowledgement
 본 개발은 2022년도 정부 (과학기술보통신부)의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임 (No. 2021-0-01414, 현실-가상정보 융합형 엣지기반 자율주행 시뮬레이션SW 기술개발).
  
