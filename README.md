@@ -32,6 +32,7 @@
  ![7](https://user-images.githubusercontent.com/80453237/206980723-50dac708-de24-48c4-b3bd-49fd93e7c873.JPG)
  
  #### 5. Results
+![8](https://user-images.githubusercontent.com/80453237/206981182-9fea08ce-9d50-4370-9734-6503097bf6e3.JPG)
 
 ### Acknowledgement
 본 개발은 2022년도 정부 (과학기술보통신부)의 재원으로 정보통신기획평가원의 지원을 받아 수행된 연구임 (No. 2021-0-01414, 현실-가상정보 융합형 엣지기반 자율주행 시뮬레이션SW 기술개발).
