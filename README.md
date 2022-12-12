@@ -29,7 +29,6 @@
 #### 3. GPS/IMU 센서 세부 설정 및 통신 프로토콜 설정
 
 ![4](https://user-images.githubusercontent.com/80453237/206969465-2dd7075c-ee1f-454b-8363-168573ab6d68.JPG)
-
 ![5](https://user-images.githubusercontent.com/80453237/206969468-e8abb951-9b50-40e9-9dc1-e268b07dfb92.JPG)
  
  #### 4. Emulater on
