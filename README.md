@@ -28,7 +28,7 @@
 ![5](https://user-images.githubusercontent.com/80453237/206969468-e8abb951-9b50-40e9-9dc1-e268b07dfb92.JPG)
  
  #### 4. Emulater on
- 코드를 실행하기 위해 드라이빙 시뮬레이터 프로토콜에 맞춰 데이터 수신 및 이를 가공할 수 있도록 사전에 사용자가 정의해야함
+ 코드를 실행하기 위해 드라이빙 시뮬레이터 프로토콜에 맞춰 데이터 수신 및 이를 가공할 수 있도록 사전에 사용자가 정의해야함 
  ![7](https://user-images.githubusercontent.com/80453237/206980723-50dac708-de24-48c4-b3bd-49fd93e7c873.JPG)
 
 ### Acknowledgement
