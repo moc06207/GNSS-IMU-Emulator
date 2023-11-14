@@ -7,6 +7,5 @@ g = 9.81; % [m/s^2]
 
 wgs84 = wgs84Ellipsoid;
 
-gps_cnt = 1;   
-asdf
+gps_cnt = 1;
 imu_cnt = 1;  
